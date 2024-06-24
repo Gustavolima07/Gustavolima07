@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Gustavolima07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact:
+- 👋 Hi there! I'm Luis Gustavo
 
-Gustavolima07/Gustavolima07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📚 Currently studying Systems Development at ETEC (1st year of a 5-year program)
+⚽️ Football enthusiast
+🌐 Learning:
+HTML
+CSS
+JavaScript
+C#
+
+
