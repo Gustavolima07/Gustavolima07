@@ -8,7 +8,7 @@
 HTML,
 CSS and
 JavaScript 
-
 C#
+Python
 
 
