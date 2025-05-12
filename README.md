@@ -21,11 +21,23 @@ Passionate about technology, football and solving real-world problems with code!
 
 ## 📈 GitHub Stats
 
-![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisgustavolima&show_icons=true&theme=radical&hide=prs)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavolima07&show_icons=true&theme=radical&hide=prs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolima07&layout=compact&theme=radical&hide=prs)" />
+</div>
+
+---
+
+## 🐍 GitHub Snake Game
+
+![snake gif](https://github.com/Gustavolima07/Gustavolima07/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Let's Connect!
 
-Feel free to reach out — I’m always up for a good tech talk or collaboration!
-
+<div> 
+  <a href = "mailto:gl401062@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/luis-gustavo-lima-0b7651249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
