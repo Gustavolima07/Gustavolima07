@@ -30,7 +30,7 @@ Passionate about technology, football and solving real-world problems with code!
 
 ## 🐍 GitHub Snake Game
 
-![snake gif](https://github.com/Gustavolima07/Gustavolima07/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gustavolima07/Gustavolima07/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
