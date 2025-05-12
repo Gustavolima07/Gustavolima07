@@ -26,8 +26,9 @@ Passionate about technology, football and solving real-world problems with code!
 
 ## 📈 GitHub Stats
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavolima07&show_icons=true&theme=radical&hide=prs"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolima07&layout=compact&theme=radical&hide=prs)" />        
+<div style="display : flex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavolima07&show_icons=true&theme=radical&hide=prs"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolima07&layout=compact&theme=radical&hide=prs)" />        
 </div>
 
 
