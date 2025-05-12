@@ -9,13 +9,17 @@ Passionate about technology, football and solving real-world problems with code!
 ## 🚀 Skills & Technologies I'm Learning
 
 🌐 **Front-End Development**
-- HTML5
-- CSS3
-- JavaScript
-- React JS
+<div>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" />
+</div>
 
 💻 **Back-End & Programming**
-- C#
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" />
 
 ---
 
@@ -23,12 +27,9 @@ Passionate about technology, football and solving real-world problems with code!
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavolima07&show_icons=true&theme=radical&hide=prs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolima07&layout=compact&theme=radical&hide=prs)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolima07&layout=compact&theme=radical&hide=prs)" />        
 </div>
 
----
-
-## 🐍 GitHub Snake Game
 
 ![Snake animation](https://github.com/Gustavolima07/Gustavolima07/blob/output/github-contribution-grid-snake.svg)
 
@@ -37,7 +38,5 @@ Passionate about technology, football and solving real-world problems with code!
 ## 📫 Let's Connect!
 
 <div> 
-  <a href = "mailto:gl401062@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/luis-gustavo-lima-0b7651249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="www.linkedin.com/in/luis-gustavo-lima-0b7651249" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" /></a> 
 </div>
