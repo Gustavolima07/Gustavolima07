@@ -40,5 +40,5 @@ Passionate about technology, football and solving real-world problems with code!
 ## 📫 Let's Connect!
 
 <div> 
-   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" />](www.linkedin.com/in/luis-gustavo-lima-0b7651249)
+   <a href="www.linkedin.com/in/luis-gustavo-lima-0b7651249"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" /></a>
 </div>
