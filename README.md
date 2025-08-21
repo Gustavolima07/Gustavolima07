@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Luis Gustavo Lima
 
 🎓 **Student Developer** 
-Currently studying **Systems Development** at [ETEC de Itu](https://etecitu.cps.sp.gov.br/) — *2st year of a 5-year program*  
+Currently studying **Systems Development** at [ETEC de Itu](https://etecitu.cps.sp.gov.br/) — *2st year of a 3-years*  
 Passionate about technology, football and solving real-world problems with code!
 
 ---
