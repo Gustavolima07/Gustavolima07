@@ -30,11 +30,11 @@ Passionate about technology, football and solving real-world problems with code!
 
 <div style="display : flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavolima07&show_icons=true&theme=radical&hide=prs"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolima07&layout=compact&theme=radical&hide=prs)" />        
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolima07&layout=compact&theme=radical&hide=prs" />        
 </div>
 
 
-![Snake animation](https://github.com/Gustavolima07/Gustavolima07/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Gustavolima07/Gustavolima07/output/github-contribution-grid-snake.svg)
 
 ---
 
