@@ -34,7 +34,7 @@ Passionate about technology, football and solving real-world problems with code!
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/Gustavolima07/Gustavolima07/output/github-contribution-grid-snake.svg?nocache=1)
+![Snake animation](https://raw.githubusercontent.com/Gustavolima07/Gustavolima07/output/github-contribution-grid-snake.svg??nocache=3)
 
 ---
 
