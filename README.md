@@ -28,12 +28,7 @@ Passionate about technology, football and solving real-world problems with code!
 ---
 
 ## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gustavolima07&show_icons=true&theme=radical&hide=prs" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolima07&layout=compact&theme=radical&hide=prs" alt="Top Languages" />
-</div>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Gustavolima07&theme=radical)
 
 ![Snake animation](https://raw.githubusercontent.com/Gustavolima07/Gustavolima07/output/github-contribution-grid-snake.svg??nocache=3)
 
