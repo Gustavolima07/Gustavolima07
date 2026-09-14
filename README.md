@@ -29,9 +29,9 @@ Passionate about technology, football and solving real-world problems with code!
 
 ## 📈 GitHub Stats
 
-<div style="display : flex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavolima07&show_icons=true&theme=radical&hide=prs&cache_seconds=0"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolima07&layout=compact&theme=radical&hide=prs" />        
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gustavolima07&show_icons=true&theme=radical&hide=prs" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolima07&layout=compact&theme=radical&hide=prs" alt="Top Languages" />
 </div>
 
 
